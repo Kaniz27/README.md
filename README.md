@@ -1,4 +1,4 @@
-# README.md# Hi there 👋 I’m Kanis Fatema
+# README.md# Assalamualikum 👋 I’m Kanis Fatema
 ## Web Developer | MERN Stack Enthusiast
 
 💫 **About Me:**  
